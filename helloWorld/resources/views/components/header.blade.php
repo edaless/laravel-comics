@@ -1,1 +1,1 @@
-<h1>component title</h1>
+<h1>component header title</h1>
